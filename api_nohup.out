@@ -1,0 +1,16 @@
+nohup: 忽略输入
+INFO:     Started server process [139354]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8900 (Press CTRL+C to quit)
+INFO:     192.168.1.172:65099 - "GET /api/latest-file HTTP/1.1" 200 OK
+INFO:     192.168.1.172:65107 - "POST /api/run-script HTTP/1.1" 200 OK
+INFO:     192.168.1.172:65117 - "GET /api/latest-file HTTP/1.1" 200 OK
+INFO:     172.19.0.8:52778 - "POST /api/run-script HTTP/1.1" 200 OK
+INFO:     172.19.0.8:52778 - "GET /api/latest-file HTTP/1.1" 200 OK
+INFO:     192.168.1.172:49947 - "GET /api/download/%E8%80%83%E5%8B%A4%E6%98%8E%E7%BB%86%E5%8F%8A%E7%BB%9F%E8%AE%A1_20250619_094505.xlsx HTTP/1.1" 200 OK
+INFO:     172.19.0.8:52858 - "POST /api/run-script HTTP/1.1" 200 OK
+INFO:     172.19.0.8:52858 - "GET /api/latest-file HTTP/1.1" 200 OK
+INFO:     192.168.1.172:50290 - "GET /api/download/%E8%80%83%E5%8B%A4%E6%98%8E%E7%BB%86%E5%8F%8A%E7%BB%9F%E8%AE%A1_20250619_095008.xlsx HTTP/1.1" 200 OK
+INFO:     172.19.0.8:55566 - "POST /api/run-script HTTP/1.1" 200 OK
+INFO:     172.19.0.8:55566 - "GET /api/latest-file HTTP/1.1" 200 OK

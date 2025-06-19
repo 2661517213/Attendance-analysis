@@ -1,0 +1,18 @@
+nohup: 忽略输入
+INFO:     Started server process [177248]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8911 (Press CTRL+C to quit)
+INFO:     192.168.1.172:65081 - "POST /update_config HTTP/1.1" 200 OK
+INFO:     172.19.0.8:35364 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:35374 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:35386 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:35388 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:33376 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:33380 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:33388 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:33400 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:43318 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:43334 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:43350 - "PUT /api/config HTTP/1.1" 404 Not Found
+INFO:     172.19.0.8:43364 - "PUT /api/config HTTP/1.1" 404 Not Found
